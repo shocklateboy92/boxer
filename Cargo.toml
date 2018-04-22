@@ -1,0 +1,5 @@
+[package]
+
+name = "boxer"
+version = "0.0.1"
+authors = [ "Lasath Fernando <devel@lasath.org>", "Craig Mahr <craig@craig.codes>" ]
